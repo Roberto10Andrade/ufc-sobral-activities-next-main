@@ -64,12 +64,6 @@ O projeto estará disponível em [http://localhost:3000](http://localhost:3000)
 - [Next.js](https://nextjs.org/)
 - [React](https://reactjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
-- [Prisma](https://www.prisma.io/)
-- [NextAuth.js](https://next-auth.js.org/)
-- [Formik](https://formik.org/)
-- [Framer Motion](https://www.framer.com/motion/)
-- [HeadlessUI](https://headlessui.dev/)
-
 ---
 
 Desenvolvido com  para a UFC Sobral
