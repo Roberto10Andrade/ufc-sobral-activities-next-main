@@ -29,7 +29,7 @@ Este é um sistema moderno para gerenciamento de atividades acadêmicas, oferece
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/Roberto10Andrade/ufc-sobral-activities-next-main.git
+git clone https://github.com/Roberto10Andrade/ufc-sobral-activities-next.git
 cd ufc-sobral-activities-next-main
 ```
 
