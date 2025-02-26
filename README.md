@@ -41,17 +41,7 @@ npm install
 yarn install
 ```
 
-### 3. Configure as variáveis de ambiente
-
-Crie um arquivo `.env.local` na raiz do projeto e configure as variáveis necessárias:
-
-```env
-DATABASE_URL="sua-url-do-banco-de-dados"
-NEXTAUTH_SECRET="seu-secret-para-autenticacao"
-NEXTAUTH_URL="http://localhost:3000"
-```
-
-### 4. Execute o projeto
+### 3. Execute o projeto
 
 ```bash
 # Modo desenvolvimento
@@ -79,14 +69,6 @@ O projeto estará disponível em [http://localhost:3000](http://localhost:3000)
 - [Formik](https://formik.org/)
 - [Framer Motion](https://www.framer.com/motion/)
 - [HeadlessUI](https://headlessui.dev/)
-
-## Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-## Contribuição
-
-Contribuições são sempre bem-vindas! Por favor, leia as [diretrizes de contribuição](CONTRIBUTING.md) primeiro.
 
 ---
 
